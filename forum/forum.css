@@ -1,0 +1,57 @@
+p{
+	font-family: 'Paytone One', sans-serif;
+	/*font-size:  60px;*/
+	text-align: center;
+	/*width : 100%;*/
+
+}
+.preparing{
+	/*font-size:  50px;*/
+	font-size:  3em;
+
+	padding: 10px;
+	margin:  30px;
+	line-height: 50px;
+	/*padding-bottom: 20px;*/
+}
+.socialQRcode{
+	width: 60px;
+	float: right;
+	/*display: none;*/
+	/*visibility: hidden;*/
+}
+.socialQRcode:hover img{
+	/*display: block;*/
+	/*visibility: visible;*/
+	border: 1px red solid;
+	opacity: 0.5;
+}
+
+.hide {
+	display: block;
+}
+
+.instruction{
+	margin: 20px;
+/*	font-size: 20px;*/
+    font-size: 1.25 rem;
+	text-align: left;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	/*text-indent: 2px;*/
+}
+.title{
+	text-align: center;
+	margin: 10px;
+}
+.title img{
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width:900px;
+	
+}
+.button{
+	text-align: center;
+}
